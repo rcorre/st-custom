@@ -1,0 +1,11 @@
+# work directories
+pkg/
+src/
+
+# packages
+*.tar.gz
+*.tar.xz
+
+# downloaded patches
+st-0.5-no-bold-colors.diff
+st-solarized-dark.diff
