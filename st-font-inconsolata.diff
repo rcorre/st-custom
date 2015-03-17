@@ -1,0 +1,11 @@
+--- config.def.h	2014-08-03 19:16:08.400476904 -0400
++++ config.def.h	2014-08-03 19:16:44.367141803 -0400
+@@ -5,7 +5,7 @@
+  *
+  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
+  */
+-static char font[] = "Liberation Mono:pixelsize=12:antialias=false:autohint=false";
++static char font[] = "Inconsolata for Powerline:pixelsize=15:autohint=false";
+ static int borderpx = 2;
+ static char shell[] = "/bin/sh";
+ 
