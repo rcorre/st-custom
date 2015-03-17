@@ -30,8 +30,8 @@ source=(http://dl.suckless.org/st/$appname-$pkgver.tar.gz
 md5sums=('4f8ae2737120a8cba34b23c6020fe51e'
          '18c28fc0ff19de6c2e4a58a711c91b15'
          'b4fd6228e0009c448194b6a637d86352'
-         'SKIP'
-         'SKIP')
+         'd1baba9fb9c6f7b0b389e99203356257'
+         'b8f32017e6cf42d7807aa49dcf258866')
 
 build() {
   cd $srcdir/$appname-$pkgver
